@@ -8,7 +8,7 @@ _MACHINE LEARNING MODEL IMPLEMENTATION_
 
 *DOMAIN : PYTHON PROGRAMMING
 
-*MENTOR : NEELA SANTHOSH_
+*MENTOR : NEELA SANTHOSH
 
 *DESCRIPTION:
 This project demonstrates a simple and practical implementation of a Machine Learning classification model to detect whether a given text message is Spam or Ham (Not Spam). The implementation uses Python, the scikit-learn library, and is executed in a Jupyter Notebook within Visual Studio Code (VS Code).The main objective of this project is to build a predictive model that can classify text messages into two categories:
