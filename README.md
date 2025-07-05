@@ -31,6 +31,7 @@ TOOLS USED:
 #matplotlib & seaborn for optional visualization
 
 WHAT CAN BE IMPLMENTED:
+
 1️⃣ Basic Spam Detection System
 Classify text messages as spam or ham using a trained Naive Bayes model.
 
