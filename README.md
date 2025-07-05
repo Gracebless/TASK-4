@@ -109,5 +109,13 @@ Save the trained model for future use without retraining.
 
 Load the model instantly and use it for predictions in other scripts or applications.
 
+OUTPUT:
+
+<img width="1469" height="985" alt="Image" src="https://github.com/user-attachments/assets/468d72da-1431-4a3c-bf69-cc3331cf7524" />
+
+<img width="1444" height="684" alt="Image" src="https://github.com/user-attachments/assets/960bf54d-72b7-43f8-95de-537ff1d8d5dc" />
+
+<img width="1482" height="694" alt="Image" src="https://github.com/user-attachments/assets/4b81f94c-6fac-47d7-b82e-7ba372e64894" />
+
 
 
